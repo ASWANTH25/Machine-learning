@@ -1,0 +1,3001 @@
+Fever,Cough,BP,Sugar,Result
+0,1,136,83,No Disease
+1,1,151,151,Disease
+0,1,86,189,No Disease
+0,1,157,189,No Disease
+0,0,135,116,No Disease
+1,0,146,176,No Disease
+0,1,95,177,No Disease
+0,0,162,78,No Disease
+0,1,130,148,No Disease
+1,0,161,84,No Disease
+0,1,159,88,No Disease
+0,1,151,159,No Disease
+0,0,176,95,No Disease
+0,0,91,161,No Disease
+1,1,132,151,Disease
+0,1,154,111,No Disease
+1,0,84,88,No Disease
+1,0,106,86,No Disease
+1,1,91,145,Disease
+0,0,96,132,No Disease
+1,1,85,176,Disease
+0,1,176,118,No Disease
+1,1,84,124,No Disease
+1,1,136,168,Disease
+1,0,107,121,No Disease
+1,0,157,169,No Disease
+1,0,148,186,No Disease
+1,0,138,187,No Disease
+1,0,112,76,No Disease
+1,0,141,115,No Disease
+0,0,129,115,No Disease
+0,1,98,169,No Disease
+1,0,165,123,No Disease
+1,0,148,131,No Disease
+1,1,145,198,Disease
+0,0,173,118,No Disease
+1,0,126,94,No Disease
+0,1,118,79,No Disease
+0,0,147,187,No Disease
+0,0,112,161,No Disease
+0,0,92,149,No Disease
+0,1,163,140,No Disease
+1,0,133,147,No Disease
+1,0,86,112,No Disease
+1,1,158,159,Disease
+1,0,166,147,No Disease
+1,1,93,95,No Disease
+0,1,166,190,No Disease
+1,0,98,114,No Disease
+1,1,133,132,Disease
+0,1,172,137,No Disease
+1,0,99,71,No Disease
+0,1,108,177,No Disease
+1,1,103,99,No Disease
+0,0,161,118,No Disease
+1,0,142,113,No Disease
+1,0,153,82,No Disease
+0,1,136,147,No Disease
+0,0,87,195,No Disease
+0,1,169,167,No Disease
+0,1,141,95,No Disease
+0,1,108,117,No Disease
+0,1,153,135,No Disease
+0,1,96,156,No Disease
+0,1,145,148,No Disease
+1,1,85,92,No Disease
+1,0,137,150,No Disease
+0,0,148,117,No Disease
+1,1,107,193,Disease
+1,1,141,199,Disease
+1,0,120,153,No Disease
+1,1,148,89,Disease
+0,0,161,115,No Disease
+1,0,169,81,No Disease
+0,0,163,109,No Disease
+1,1,120,135,No Disease
+1,1,128,169,Disease
+1,0,170,147,No Disease
+0,0,128,85,No Disease
+1,0,155,152,No Disease
+0,0,150,113,No Disease
+1,0,82,169,No Disease
+0,1,89,91,No Disease
+1,0,177,87,No Disease
+0,1,168,81,No Disease
+0,0,114,192,No Disease
+1,1,159,186,Disease
+0,1,81,120,No Disease
+1,1,103,140,No Disease
+1,1,153,117,Disease
+1,1,117,88,No Disease
+1,1,101,75,No Disease
+1,0,105,153,No Disease
+1,1,122,122,No Disease
+1,0,134,176,No Disease
+1,1,118,170,Disease
+1,1,170,117,Disease
+1,0,108,138,No Disease
+1,1,99,80,No Disease
+0,0,170,191,No Disease
+0,0,120,138,No Disease
+1,0,133,92,No Disease
+1,0,99,106,No Disease
+1,1,98,78,No Disease
+1,1,163,84,Disease
+1,0,178,162,No Disease
+1,1,145,86,Disease
+1,1,109,141,Disease
+1,0,132,190,No Disease
+0,1,113,80,No Disease
+1,0,101,141,No Disease
+0,0,146,175,No Disease
+1,1,85,194,Disease
+1,1,158,104,Disease
+0,1,106,188,No Disease
+1,0,89,83,No Disease
+0,0,152,83,No Disease
+1,1,176,79,Disease
+1,1,175,107,Disease
+0,1,127,177,No Disease
+1,1,149,188,Disease
+0,0,138,103,No Disease
+1,1,179,79,Disease
+0,0,138,191,No Disease
+0,0,81,184,No Disease
+1,1,108,70,No Disease
+1,1,147,81,Disease
+0,1,144,172,No Disease
+1,0,162,73,No Disease
+1,1,105,167,Disease
+1,1,168,175,Disease
+0,0,89,154,No Disease
+0,1,132,190,No Disease
+0,0,158,151,No Disease
+0,1,138,88,No Disease
+0,0,101,199,No Disease
+0,1,130,81,No Disease
+0,1,127,150,No Disease
+0,0,100,143,No Disease
+0,0,101,167,No Disease
+1,1,179,75,Disease
+0,0,177,194,No Disease
+1,0,109,120,No Disease
+1,0,104,80,No Disease
+1,0,107,196,No Disease
+0,1,144,142,No Disease
+0,1,124,71,No Disease
+0,0,147,77,No Disease
+0,0,86,193,No Disease
+1,0,128,122,No Disease
+0,0,88,79,No Disease
+0,1,115,181,No Disease
+0,1,162,77,No Disease
+0,0,80,105,No Disease
+0,0,89,175,No Disease
+1,0,115,83,No Disease
+0,1,152,155,No Disease
+1,0,125,119,No Disease
+0,1,111,89,No Disease
+1,0,111,156,No Disease
+0,1,85,198,No Disease
+0,0,127,107,No Disease
+1,1,117,113,No Disease
+1,0,96,155,No Disease
+1,0,153,113,No Disease
+0,0,106,143,No Disease
+1,1,133,188,Disease
+0,0,129,191,No Disease
+0,1,114,120,No Disease
+1,1,164,107,Disease
+1,0,104,120,No Disease
+0,0,107,79,No Disease
+0,0,94,189,No Disease
+1,1,83,139,No Disease
+1,0,172,154,No Disease
+1,1,152,126,Disease
+0,1,106,195,No Disease
+0,0,105,108,No Disease
+0,0,98,102,No Disease
+0,0,171,87,No Disease
+0,0,96,126,No Disease
+0,0,122,165,No Disease
+1,0,120,117,No Disease
+0,1,121,111,No Disease
+0,1,129,96,No Disease
+0,1,163,143,No Disease
+1,0,119,179,No Disease
+0,1,118,101,No Disease
+0,1,102,95,No Disease
+1,1,175,94,Disease
+0,1,131,144,No Disease
+0,1,126,92,No Disease
+0,0,142,126,No Disease
+0,0,176,195,No Disease
+0,1,148,156,No Disease
+1,1,122,100,No Disease
+1,1,127,133,No Disease
+1,0,113,102,No Disease
+0,0,119,71,No Disease
+0,1,154,87,No Disease
+0,0,140,153,No Disease
+1,0,129,104,No Disease
+0,1,146,183,No Disease
+0,0,141,179,No Disease
+1,0,137,157,No Disease
+0,1,112,141,No Disease
+1,0,154,194,No Disease
+1,0,95,99,No Disease
+1,1,161,122,Disease
+0,0,173,156,No Disease
+0,0,127,82,No Disease
+0,1,89,109,No Disease
+0,1,161,158,No Disease
+0,1,117,137,No Disease
+0,0,98,111,No Disease
+0,1,115,163,No Disease
+1,0,138,88,No Disease
+0,1,142,92,No Disease
+1,0,156,123,No Disease
+0,1,125,134,No Disease
+0,1,82,93,No Disease
+0,1,153,103,No Disease
+1,1,144,122,Disease
+1,0,170,87,No Disease
+1,1,87,126,No Disease
+1,1,130,181,Disease
+0,0,160,74,No Disease
+1,1,152,82,Disease
+0,0,85,152,No Disease
+0,1,168,98,No Disease
+1,1,118,72,No Disease
+1,1,139,159,Disease
+1,0,107,173,No Disease
+1,1,176,192,Disease
+1,1,133,145,Disease
+1,1,116,199,Disease
+1,0,88,177,No Disease
+1,0,161,151,No Disease
+0,1,135,146,No Disease
+1,0,138,71,No Disease
+1,1,164,196,Disease
+0,1,81,95,No Disease
+1,1,140,157,Disease
+0,1,137,85,No Disease
+0,1,139,142,No Disease
+1,1,119,101,No Disease
+0,1,115,84,No Disease
+0,0,116,74,No Disease
+0,0,158,143,No Disease
+0,0,171,121,No Disease
+1,0,97,146,No Disease
+0,0,177,179,No Disease
+1,0,142,175,No Disease
+0,0,101,196,No Disease
+0,1,90,76,No Disease
+0,1,137,109,No Disease
+0,1,136,168,No Disease
+1,1,156,154,Disease
+1,0,83,134,No Disease
+0,0,165,80,No Disease
+0,1,86,177,No Disease
+1,1,140,95,Disease
+0,0,133,154,No Disease
+0,1,167,192,No Disease
+0,1,147,137,No Disease
+1,1,171,173,Disease
+1,1,158,149,Disease
+1,0,80,122,No Disease
+0,1,134,175,No Disease
+0,1,82,113,No Disease
+1,0,157,159,No Disease
+1,0,117,170,No Disease
+1,1,80,166,Disease
+1,0,117,78,No Disease
+0,1,164,81,No Disease
+1,1,108,138,No Disease
+0,0,84,97,No Disease
+1,1,153,125,Disease
+0,1,171,168,No Disease
+1,1,100,179,Disease
+1,1,150,146,Disease
+1,0,146,172,No Disease
+1,0,126,175,No Disease
+0,1,163,178,No Disease
+1,0,162,181,No Disease
+0,1,114,127,No Disease
+0,1,147,147,No Disease
+0,1,148,144,No Disease
+0,1,80,111,No Disease
+1,1,147,137,Disease
+0,0,91,102,No Disease
+0,1,139,140,No Disease
+0,0,106,125,No Disease
+1,0,135,174,No Disease
+1,1,102,170,Disease
+1,1,104,120,No Disease
+1,1,100,143,Disease
+0,1,140,190,No Disease
+0,1,142,74,No Disease
+1,0,131,152,No Disease
+0,1,167,120,No Disease
+0,1,104,79,No Disease
+0,0,134,73,No Disease
+1,0,125,164,No Disease
+1,1,111,149,Disease
+0,0,134,105,No Disease
+1,1,175,94,Disease
+1,0,84,167,No Disease
+1,0,115,170,No Disease
+1,1,128,78,No Disease
+1,0,137,130,No Disease
+0,0,118,122,No Disease
+1,0,159,132,No Disease
+0,0,176,190,No Disease
+0,0,164,174,No Disease
+1,0,140,73,No Disease
+0,1,88,162,No Disease
+0,1,85,97,No Disease
+0,0,114,149,No Disease
+1,1,118,145,Disease
+1,1,101,185,Disease
+0,1,120,138,No Disease
+1,0,84,167,No Disease
+1,1,121,70,No Disease
+1,0,166,165,No Disease
+1,1,160,86,Disease
+0,0,155,181,No Disease
+0,0,166,160,No Disease
+1,1,159,157,Disease
+1,1,146,159,Disease
+0,0,109,118,No Disease
+0,1,136,107,No Disease
+1,1,165,128,Disease
+0,1,152,137,No Disease
+1,0,108,199,No Disease
+1,0,116,118,No Disease
+0,1,166,195,No Disease
+0,1,92,180,No Disease
+1,1,111,117,No Disease
+1,0,125,120,No Disease
+0,0,102,112,No Disease
+1,1,124,167,Disease
+0,1,96,193,No Disease
+1,1,164,149,Disease
+0,1,145,180,No Disease
+0,1,85,96,No Disease
+0,1,97,182,No Disease
+1,0,173,155,No Disease
+1,1,101,183,Disease
+0,0,112,193,No Disease
+1,1,109,118,No Disease
+0,1,160,145,No Disease
+0,0,111,124,No Disease
+1,0,121,125,No Disease
+1,0,157,164,No Disease
+0,0,89,113,No Disease
+1,1,115,156,Disease
+1,0,113,153,No Disease
+0,1,152,85,No Disease
+0,0,107,106,No Disease
+1,1,90,146,Disease
+0,1,157,114,No Disease
+0,1,118,131,No Disease
+1,1,126,169,Disease
+0,1,98,121,No Disease
+0,1,94,88,No Disease
+1,0,107,178,No Disease
+1,1,103,113,No Disease
+0,0,151,76,No Disease
+0,0,88,186,No Disease
+1,1,126,137,No Disease
+1,0,112,103,No Disease
+1,1,141,138,Disease
+1,0,176,124,No Disease
+0,1,98,79,No Disease
+1,0,146,111,No Disease
+1,1,153,110,Disease
+0,1,119,191,No Disease
+1,1,126,79,No Disease
+0,1,144,171,No Disease
+1,0,108,197,No Disease
+1,1,129,161,Disease
+1,0,177,182,No Disease
+0,0,92,147,No Disease
+0,0,80,154,No Disease
+1,1,113,99,No Disease
+0,0,172,118,No Disease
+0,0,127,78,No Disease
+0,0,156,138,No Disease
+0,1,127,127,No Disease
+0,1,128,131,No Disease
+0,0,143,121,No Disease
+1,1,140,109,Disease
+1,1,108,132,No Disease
+0,0,118,119,No Disease
+1,0,167,147,No Disease
+1,1,105,166,Disease
+1,0,96,112,No Disease
+1,1,150,105,Disease
+0,1,92,191,No Disease
+1,1,148,177,Disease
+1,1,105,79,No Disease
+0,1,128,164,No Disease
+0,1,146,75,No Disease
+1,0,86,126,No Disease
+1,0,137,198,No Disease
+1,1,128,140,No Disease
+1,1,132,90,Disease
+1,1,144,161,Disease
+1,0,141,196,No Disease
+0,1,96,149,No Disease
+1,0,122,125,No Disease
+1,1,104,185,Disease
+0,1,82,94,No Disease
+0,0,158,74,No Disease
+0,0,108,189,No Disease
+0,1,111,90,No Disease
+1,1,105,87,No Disease
+1,1,95,126,No Disease
+1,0,104,162,No Disease
+1,0,133,88,No Disease
+1,0,107,197,No Disease
+1,0,152,166,No Disease
+0,0,135,90,No Disease
+1,0,144,109,No Disease
+0,1,172,136,No Disease
+0,1,165,196,No Disease
+1,0,159,124,No Disease
+0,1,120,178,No Disease
+1,1,130,167,Disease
+0,0,150,181,No Disease
+1,1,157,184,Disease
+0,0,108,186,No Disease
+1,0,162,156,No Disease
+1,1,98,150,Disease
+1,0,145,135,No Disease
+1,0,120,88,No Disease
+1,0,124,187,No Disease
+0,0,94,111,No Disease
+0,0,82,111,No Disease
+0,0,90,128,No Disease
+1,0,132,89,No Disease
+0,0,125,142,No Disease
+1,1,109,86,No Disease
+1,1,136,96,Disease
+0,1,97,71,No Disease
+0,0,130,132,No Disease
+1,0,127,131,No Disease
+0,1,145,169,No Disease
+1,1,175,88,Disease
+1,1,87,86,No Disease
+1,0,101,138,No Disease
+1,1,85,186,Disease
+1,1,155,150,Disease
+0,0,136,108,No Disease
+0,1,115,105,No Disease
+1,0,158,98,No Disease
+1,0,171,120,No Disease
+0,0,136,83,No Disease
+0,1,128,138,No Disease
+1,1,124,126,No Disease
+0,0,161,81,No Disease
+1,1,145,86,Disease
+0,1,156,99,No Disease
+1,1,124,157,Disease
+0,1,158,168,No Disease
+1,0,99,92,No Disease
+0,1,143,198,No Disease
+0,0,172,148,No Disease
+1,0,172,101,No Disease
+0,1,146,78,No Disease
+1,0,162,84,No Disease
+0,1,82,96,No Disease
+1,1,133,178,Disease
+0,0,157,145,No Disease
+1,0,143,134,No Disease
+0,0,119,178,No Disease
+1,0,138,198,No Disease
+0,1,134,79,No Disease
+1,1,141,116,Disease
+1,1,83,192,Disease
+1,0,139,128,No Disease
+0,0,154,165,No Disease
+1,0,174,172,No Disease
+0,1,175,193,No Disease
+1,0,170,155,No Disease
+0,1,109,181,No Disease
+1,0,81,96,No Disease
+0,1,141,87,No Disease
+0,1,128,151,No Disease
+1,0,88,141,No Disease
+0,0,171,123,No Disease
+0,1,110,140,No Disease
+1,1,177,107,Disease
+0,0,140,104,No Disease
+0,0,158,151,No Disease
+0,1,127,73,No Disease
+1,0,104,92,No Disease
+0,1,115,117,No Disease
+1,1,87,194,Disease
+0,0,152,124,No Disease
+0,0,137,137,No Disease
+0,0,124,157,No Disease
+1,0,141,70,No Disease
+0,0,118,164,No Disease
+0,1,175,175,No Disease
+1,1,137,177,Disease
+0,0,160,111,No Disease
+1,0,178,171,No Disease
+1,0,162,193,No Disease
+0,1,143,172,No Disease
+1,0,123,143,No Disease
+0,0,108,177,No Disease
+1,1,138,191,Disease
+1,1,150,86,Disease
+0,0,171,140,No Disease
+1,0,88,131,No Disease
+1,0,171,110,No Disease
+1,1,85,188,Disease
+1,0,108,114,No Disease
+1,0,137,127,No Disease
+0,0,96,195,No Disease
+1,1,95,113,No Disease
+0,1,166,84,No Disease
+1,0,174,147,No Disease
+0,0,82,139,No Disease
+0,1,100,170,No Disease
+1,1,143,72,Disease
+1,1,169,155,Disease
+1,1,115,143,Disease
+0,1,165,120,No Disease
+1,1,141,136,Disease
+0,1,121,145,No Disease
+0,1,155,162,No Disease
+0,1,121,76,No Disease
+1,0,140,82,No Disease
+1,0,92,189,No Disease
+0,0,90,135,No Disease
+0,1,133,73,No Disease
+1,0,95,157,No Disease
+0,1,87,86,No Disease
+1,1,138,121,Disease
+0,0,136,138,No Disease
+1,1,119,90,No Disease
+0,0,138,93,No Disease
+1,0,81,73,No Disease
+0,0,173,72,No Disease
+1,1,173,137,Disease
+1,0,155,170,No Disease
+0,1,89,123,No Disease
+0,0,123,104,No Disease
+1,0,90,125,No Disease
+0,0,158,177,No Disease
+1,1,159,109,Disease
+0,1,160,137,No Disease
+1,1,169,115,Disease
+1,0,81,147,No Disease
+1,0,129,75,No Disease
+1,1,91,86,No Disease
+1,1,169,168,Disease
+1,1,102,150,Disease
+0,1,97,71,No Disease
+0,1,141,146,No Disease
+0,1,175,135,No Disease
+1,0,141,121,No Disease
+1,1,117,161,Disease
+1,0,146,91,No Disease
+1,0,117,180,No Disease
+0,1,146,176,No Disease
+0,1,173,136,No Disease
+1,0,140,138,No Disease
+0,1,80,153,No Disease
+0,1,173,172,No Disease
+1,0,124,108,No Disease
+0,0,175,82,No Disease
+1,0,107,110,No Disease
+0,1,100,126,No Disease
+1,0,92,81,No Disease
+1,1,106,82,No Disease
+1,0,179,189,No Disease
+1,0,86,166,No Disease
+0,0,101,126,No Disease
+1,1,153,109,Disease
+1,1,132,187,Disease
+1,0,158,149,No Disease
+0,0,158,197,No Disease
+1,0,83,104,No Disease
+0,1,175,72,No Disease
+1,0,102,189,No Disease
+0,1,149,74,No Disease
+0,0,167,80,No Disease
+1,0,163,195,No Disease
+0,0,163,140,No Disease
+1,0,155,186,No Disease
+1,0,112,175,No Disease
+1,0,107,185,No Disease
+0,1,87,136,No Disease
+0,0,80,100,No Disease
+1,1,116,144,Disease
+1,0,142,140,No Disease
+0,0,101,135,No Disease
+1,1,149,139,Disease
+1,0,100,110,No Disease
+1,1,175,89,Disease
+0,1,114,108,No Disease
+0,0,158,114,No Disease
+0,1,84,139,No Disease
+1,1,139,194,Disease
+1,0,125,160,No Disease
+1,1,129,139,No Disease
+0,0,127,199,No Disease
+1,0,85,153,No Disease
+1,0,168,158,No Disease
+1,0,135,148,No Disease
+1,1,138,182,Disease
+0,0,108,162,No Disease
+0,0,150,141,No Disease
+1,1,156,118,Disease
+0,0,97,121,No Disease
+0,0,81,102,No Disease
+1,1,87,91,No Disease
+1,1,154,183,Disease
+0,1,176,87,No Disease
+1,1,133,187,Disease
+0,1,117,186,No Disease
+1,1,127,106,No Disease
+0,1,106,133,No Disease
+1,0,99,148,No Disease
+0,1,91,192,No Disease
+0,1,122,113,No Disease
+0,1,140,151,No Disease
+1,0,110,156,No Disease
+0,0,170,85,No Disease
+0,1,175,123,No Disease
+1,1,140,171,Disease
+1,1,153,167,Disease
+0,0,146,71,No Disease
+0,0,170,163,No Disease
+1,1,114,128,No Disease
+1,0,174,138,No Disease
+1,1,94,188,Disease
+1,0,95,161,No Disease
+1,0,92,114,No Disease
+0,1,114,93,No Disease
+1,1,154,160,Disease
+0,1,138,163,No Disease
+0,1,100,127,No Disease
+0,0,133,197,No Disease
+1,0,154,76,No Disease
+0,0,109,116,No Disease
+0,1,127,122,No Disease
+1,0,114,107,No Disease
+0,1,165,122,No Disease
+0,0,117,117,No Disease
+1,1,110,164,Disease
+0,1,157,133,No Disease
+0,0,103,162,No Disease
+0,1,128,194,No Disease
+1,1,175,108,Disease
+1,0,179,73,No Disease
+1,1,111,195,Disease
+0,1,134,72,No Disease
+0,1,158,133,No Disease
+1,0,137,98,No Disease
+0,0,178,185,No Disease
+0,1,82,80,No Disease
+1,0,159,166,No Disease
+1,1,148,171,Disease
+0,1,164,90,No Disease
+0,1,89,108,No Disease
+0,1,162,171,No Disease
+1,1,104,115,No Disease
+1,0,147,135,No Disease
+1,1,140,160,Disease
+1,0,108,180,No Disease
+0,0,98,151,No Disease
+1,1,122,192,Disease
+1,1,145,168,Disease
+1,0,153,104,No Disease
+1,0,140,172,No Disease
+1,0,122,198,No Disease
+0,1,104,94,No Disease
+0,0,99,112,No Disease
+1,1,127,153,Disease
+0,1,162,120,No Disease
+1,1,166,199,Disease
+1,0,103,195,No Disease
+0,1,90,138,No Disease
+0,1,177,78,No Disease
+1,1,134,71,Disease
+1,1,107,79,No Disease
+1,1,148,183,Disease
+0,0,142,145,No Disease
+1,1,138,154,Disease
+1,1,84,118,No Disease
+1,0,130,139,No Disease
+0,1,100,159,No Disease
+1,0,91,95,No Disease
+1,1,129,141,Disease
+0,0,83,74,No Disease
+1,0,121,84,No Disease
+1,1,163,192,Disease
+0,1,117,70,No Disease
+1,1,104,72,No Disease
+0,0,93,116,No Disease
+0,0,154,164,No Disease
+1,0,111,82,No Disease
+1,1,90,189,Disease
+1,0,140,124,No Disease
+1,0,97,135,No Disease
+0,1,106,159,No Disease
+1,0,134,131,No Disease
+0,0,133,171,No Disease
+1,1,161,77,Disease
+1,0,166,166,No Disease
+1,1,154,186,Disease
+0,1,100,133,No Disease
+1,1,123,90,No Disease
+1,1,84,184,Disease
+1,1,166,154,Disease
+1,0,120,89,No Disease
+0,0,138,77,No Disease
+1,1,168,127,Disease
+0,1,133,115,No Disease
+0,0,153,100,No Disease
+0,1,101,162,No Disease
+0,1,162,78,No Disease
+0,1,144,84,No Disease
+0,0,143,163,No Disease
+1,0,150,98,No Disease
+0,1,83,149,No Disease
+0,1,144,105,No Disease
+0,0,94,153,No Disease
+1,0,155,178,No Disease
+1,1,101,187,Disease
+0,1,165,106,No Disease
+1,0,126,155,No Disease
+0,0,160,140,No Disease
+0,0,172,162,No Disease
+1,1,125,149,Disease
+0,0,93,171,No Disease
+1,1,129,83,No Disease
+1,0,99,186,No Disease
+0,0,129,142,No Disease
+0,0,112,160,No Disease
+1,0,138,159,No Disease
+0,1,122,98,No Disease
+0,1,158,118,No Disease
+0,0,91,141,No Disease
+1,1,119,111,No Disease
+1,0,99,111,No Disease
+0,0,173,174,No Disease
+1,0,117,96,No Disease
+1,0,82,127,No Disease
+1,1,107,115,No Disease
+1,0,135,135,No Disease
+1,0,169,94,No Disease
+0,1,173,142,No Disease
+0,0,92,186,No Disease
+0,0,156,198,No Disease
+1,0,145,156,No Disease
+1,1,116,143,Disease
+0,0,128,194,No Disease
+1,1,145,136,Disease
+0,0,115,75,No Disease
+0,0,133,194,No Disease
+0,1,105,127,No Disease
+1,0,154,139,No Disease
+1,0,151,122,No Disease
+0,1,119,135,No Disease
+0,1,122,127,No Disease
+0,1,101,151,No Disease
+0,1,99,156,No Disease
+1,1,87,71,No Disease
+1,0,108,106,No Disease
+0,1,119,172,No Disease
+0,0,169,93,No Disease
+1,0,109,181,No Disease
+1,0,160,134,No Disease
+0,1,163,198,No Disease
+0,1,134,186,No Disease
+0,0,95,185,No Disease
+1,1,125,174,Disease
+1,1,141,72,Disease
+1,1,86,115,No Disease
+0,1,159,124,No Disease
+0,0,124,144,No Disease
+1,0,138,114,No Disease
+1,1,135,146,Disease
+0,0,127,93,No Disease
+1,1,106,104,No Disease
+1,1,132,93,Disease
+0,0,166,97,No Disease
+1,0,167,85,No Disease
+0,0,152,128,No Disease
+0,1,114,84,No Disease
+0,0,130,80,No Disease
+0,1,163,148,No Disease
+0,0,116,184,No Disease
+0,0,160,137,No Disease
+0,1,174,112,No Disease
+1,1,136,138,Disease
+0,1,87,144,No Disease
+0,1,158,172,No Disease
+1,1,174,110,Disease
+1,1,173,128,Disease
+1,1,99,108,No Disease
+0,1,132,72,No Disease
+1,0,91,76,No Disease
+0,1,128,118,No Disease
+0,1,96,95,No Disease
+0,0,143,170,No Disease
+0,1,121,148,No Disease
+1,0,173,71,No Disease
+1,0,108,196,No Disease
+0,1,98,89,No Disease
+0,0,90,186,No Disease
+0,1,177,101,No Disease
+1,0,129,97,No Disease
+0,0,150,146,No Disease
+0,0,137,70,No Disease
+1,1,113,125,No Disease
+1,1,99,104,No Disease
+0,0,129,181,No Disease
+1,0,167,99,No Disease
+1,1,89,123,No Disease
+0,1,111,105,No Disease
+1,0,131,149,No Disease
+0,0,94,127,No Disease
+1,1,163,152,Disease
+0,1,82,134,No Disease
+0,1,116,138,No Disease
+0,1,119,197,No Disease
+1,1,151,120,Disease
+0,0,119,91,No Disease
+1,1,135,176,Disease
+0,0,102,178,No Disease
+0,1,90,185,No Disease
+1,0,143,170,No Disease
+0,1,87,169,No Disease
+0,1,172,137,No Disease
+1,0,173,105,No Disease
+0,0,135,91,No Disease
+0,1,139,135,No Disease
+0,1,89,90,No Disease
+0,1,118,169,No Disease
+1,1,107,197,Disease
+1,1,128,113,No Disease
+0,0,115,172,No Disease
+1,0,92,116,No Disease
+0,1,175,108,No Disease
+1,0,115,98,No Disease
+0,0,105,123,No Disease
+0,0,165,159,No Disease
+0,1,83,154,No Disease
+0,0,174,86,No Disease
+0,1,161,149,No Disease
+0,0,143,142,No Disease
+1,1,117,118,No Disease
+0,0,167,170,No Disease
+1,1,166,71,Disease
+0,1,101,128,No Disease
+1,0,81,166,No Disease
+1,1,110,168,Disease
+1,1,90,172,Disease
+0,1,171,71,No Disease
+0,1,125,110,No Disease
+1,1,175,192,Disease
+0,1,141,151,No Disease
+1,1,148,98,Disease
+0,1,143,83,No Disease
+1,0,89,81,No Disease
+1,0,119,168,No Disease
+0,1,103,150,No Disease
+1,1,178,175,Disease
+0,0,123,101,No Disease
+1,0,139,143,No Disease
+1,0,141,150,No Disease
+0,1,166,138,No Disease
+0,0,96,114,No Disease
+0,1,144,175,No Disease
+1,1,174,169,Disease
+0,0,174,78,No Disease
+1,1,136,131,Disease
+1,1,134,98,Disease
+0,1,132,194,No Disease
+0,1,135,183,No Disease
+1,0,177,189,No Disease
+1,0,88,148,No Disease
+0,1,101,162,No Disease
+0,1,92,73,No Disease
+0,0,168,151,No Disease
+0,1,127,144,No Disease
+0,0,97,83,No Disease
+1,1,155,183,Disease
+1,1,119,131,No Disease
+1,0,96,175,No Disease
+1,0,94,133,No Disease
+0,0,94,171,No Disease
+0,0,158,175,No Disease
+0,1,142,89,No Disease
+1,0,118,127,No Disease
+1,1,92,181,Disease
+0,0,160,126,No Disease
+0,0,111,188,No Disease
+1,1,88,166,Disease
+1,0,119,161,No Disease
+0,0,99,121,No Disease
+0,0,169,106,No Disease
+1,0,170,77,No Disease
+0,1,164,113,No Disease
+0,1,161,167,No Disease
+0,0,156,187,No Disease
+1,0,159,138,No Disease
+1,0,152,114,No Disease
+1,1,142,101,Disease
+1,1,155,102,Disease
+1,1,123,195,Disease
+1,1,117,136,No Disease
+1,0,162,99,No Disease
+0,0,139,183,No Disease
+0,0,150,98,No Disease
+0,1,178,99,No Disease
+0,0,127,199,No Disease
+0,1,97,131,No Disease
+0,1,95,72,No Disease
+0,0,134,137,No Disease
+1,0,118,94,No Disease
+1,0,147,113,No Disease
+0,1,138,124,No Disease
+0,1,168,199,No Disease
+1,0,175,110,No Disease
+0,0,141,133,No Disease
+0,1,92,100,No Disease
+1,0,160,116,No Disease
+0,1,85,199,No Disease
+1,1,162,165,Disease
+0,0,156,146,No Disease
+1,0,139,179,No Disease
+1,0,169,138,No Disease
+1,0,93,127,No Disease
+0,1,174,175,No Disease
+1,1,133,113,Disease
+0,1,83,143,No Disease
+0,0,118,125,No Disease
+0,1,151,196,No Disease
+0,0,104,99,No Disease
+1,0,156,140,No Disease
+1,0,111,187,No Disease
+0,0,138,124,No Disease
+0,0,142,136,No Disease
+1,0,117,72,No Disease
+0,1,171,95,No Disease
+1,0,132,126,No Disease
+0,1,173,195,No Disease
+0,1,146,122,No Disease
+1,0,107,112,No Disease
+0,0,82,118,No Disease
+1,0,177,111,No Disease
+0,1,159,80,No Disease
+0,0,101,172,No Disease
+0,1,175,167,No Disease
+1,0,117,154,No Disease
+0,0,151,169,No Disease
+0,1,151,173,No Disease
+0,1,141,115,No Disease
+0,0,136,113,No Disease
+1,1,85,91,No Disease
+1,1,157,183,Disease
+0,1,111,194,No Disease
+1,1,178,193,Disease
+0,1,89,99,No Disease
+0,0,82,77,No Disease
+0,0,138,167,No Disease
+1,1,155,126,Disease
+1,0,128,180,No Disease
+1,0,138,142,No Disease
+1,1,110,184,Disease
+1,0,172,89,No Disease
+1,1,148,94,Disease
+1,1,141,88,Disease
+1,0,131,74,No Disease
+1,1,168,144,Disease
+0,1,120,197,No Disease
+1,1,110,141,Disease
+1,1,164,109,Disease
+1,1,163,95,Disease
+1,0,101,96,No Disease
+1,0,83,152,No Disease
+1,1,92,197,Disease
+1,1,124,102,No Disease
+1,0,121,166,No Disease
+1,1,128,180,Disease
+1,0,99,85,No Disease
+1,1,156,92,Disease
+0,1,160,95,No Disease
+0,1,133,165,No Disease
+1,1,115,81,No Disease
+1,1,176,141,Disease
+0,1,80,175,No Disease
+1,1,94,186,Disease
+0,0,156,95,No Disease
+0,0,96,91,No Disease
+0,0,103,82,No Disease
+0,1,137,176,No Disease
+0,1,151,92,No Disease
+1,1,170,166,Disease
+0,1,102,87,No Disease
+1,1,125,186,Disease
+1,1,151,99,Disease
+0,1,87,95,No Disease
+0,0,138,108,No Disease
+1,1,169,199,Disease
+0,0,138,182,No Disease
+0,0,92,115,No Disease
+1,1,118,119,No Disease
+1,1,107,175,Disease
+0,0,168,141,No Disease
+1,0,140,143,No Disease
+0,1,95,86,No Disease
+0,1,81,139,No Disease
+0,0,161,75,No Disease
+1,1,96,95,No Disease
+1,1,109,168,Disease
+1,1,92,91,No Disease
+1,0,175,120,No Disease
+1,0,172,173,No Disease
+0,0,173,158,No Disease
+0,1,161,78,No Disease
+0,1,92,148,No Disease
+0,0,122,121,No Disease
+1,0,164,199,No Disease
+0,0,173,82,No Disease
+1,1,100,120,No Disease
+0,0,134,103,No Disease
+1,0,160,104,No Disease
+1,1,119,189,Disease
+0,1,162,139,No Disease
+0,1,94,136,No Disease
+0,0,152,172,No Disease
+0,1,131,142,No Disease
+1,1,153,185,Disease
+0,0,174,136,No Disease
+0,1,132,190,No Disease
+1,0,166,163,No Disease
+0,0,131,198,No Disease
+0,1,109,160,No Disease
+0,1,112,161,No Disease
+0,1,136,132,No Disease
+0,1,131,98,No Disease
+1,1,88,81,No Disease
+0,1,133,146,No Disease
+0,0,80,110,No Disease
+0,0,123,199,No Disease
+0,1,178,106,No Disease
+0,0,154,93,No Disease
+1,1,177,168,Disease
+0,0,159,169,No Disease
+1,0,88,127,No Disease
+1,0,111,98,No Disease
+0,1,94,129,No Disease
+0,0,91,164,No Disease
+0,1,176,111,No Disease
+0,0,157,112,No Disease
+1,0,136,143,No Disease
+0,0,87,133,No Disease
+0,0,151,71,No Disease
+0,0,106,135,No Disease
+0,1,141,100,No Disease
+0,1,91,184,No Disease
+0,0,144,95,No Disease
+1,0,121,98,No Disease
+1,0,141,147,No Disease
+0,0,90,94,No Disease
+0,1,122,117,No Disease
+0,0,174,134,No Disease
+1,1,96,136,No Disease
+0,0,176,159,No Disease
+1,1,111,107,No Disease
+0,0,172,156,No Disease
+0,0,164,134,No Disease
+0,1,164,96,No Disease
+0,0,119,175,No Disease
+1,0,102,192,No Disease
+1,0,135,113,No Disease
+0,1,85,169,No Disease
+0,0,165,97,No Disease
+1,0,129,86,No Disease
+1,1,116,196,Disease
+1,1,143,192,Disease
+1,1,133,145,Disease
+0,0,151,115,No Disease
+1,0,128,138,No Disease
+0,0,178,154,No Disease
+1,1,90,80,No Disease
+1,0,167,138,No Disease
+1,0,128,168,No Disease
+1,1,100,160,Disease
+1,1,145,163,Disease
+0,1,142,184,No Disease
+0,1,162,100,No Disease
+1,1,107,80,No Disease
+1,0,96,156,No Disease
+0,1,85,190,No Disease
+1,0,98,199,No Disease
+1,0,135,174,No Disease
+0,1,107,96,No Disease
+1,1,145,71,Disease
+1,1,117,172,Disease
+0,0,116,170,No Disease
+0,1,147,90,No Disease
+0,1,165,127,No Disease
+1,1,169,154,Disease
+0,1,128,162,No Disease
+0,1,122,89,No Disease
+0,0,115,130,No Disease
+0,0,137,107,No Disease
+0,0,92,94,No Disease
+0,1,131,199,No Disease
+1,1,137,190,Disease
+1,1,111,95,No Disease
+0,0,160,136,No Disease
+0,1,179,70,No Disease
+0,1,139,120,No Disease
+1,1,162,74,Disease
+1,0,137,82,No Disease
+1,1,178,117,Disease
+1,0,135,126,No Disease
+1,1,107,184,Disease
+1,0,80,104,No Disease
+1,0,121,145,No Disease
+1,0,161,163,No Disease
+1,1,127,74,No Disease
+0,1,119,91,No Disease
+0,0,176,172,No Disease
+0,0,142,193,No Disease
+0,1,155,122,No Disease
+1,1,151,138,Disease
+1,0,167,173,No Disease
+0,1,159,85,No Disease
+1,1,83,185,Disease
+0,1,117,145,No Disease
+1,1,106,178,Disease
+0,0,88,108,No Disease
+1,1,95,158,Disease
+1,1,135,181,Disease
+0,0,155,116,No Disease
+1,0,110,197,No Disease
+0,1,167,146,No Disease
+0,1,93,84,No Disease
+0,1,104,105,No Disease
+0,1,113,132,No Disease
+1,0,146,138,No Disease
+1,0,103,143,No Disease
+1,0,152,93,No Disease
+0,1,105,118,No Disease
+1,1,99,76,No Disease
+0,1,143,73,No Disease
+1,1,89,159,Disease
+1,0,162,129,No Disease
+1,0,146,124,No Disease
+0,1,103,85,No Disease
+1,0,84,98,No Disease
+1,1,146,83,Disease
+0,1,137,148,No Disease
+1,0,106,102,No Disease
+0,1,159,90,No Disease
+1,1,94,92,No Disease
+0,0,114,126,No Disease
+0,1,155,162,No Disease
+1,1,132,89,Disease
+0,0,123,88,No Disease
+0,1,105,172,No Disease
+0,0,126,146,No Disease
+0,1,113,102,No Disease
+0,0,166,87,No Disease
+0,0,174,142,No Disease
+1,0,129,86,No Disease
+0,1,163,88,No Disease
+0,0,91,139,No Disease
+1,0,166,189,No Disease
+1,0,83,170,No Disease
+1,0,166,103,No Disease
+1,0,127,153,No Disease
+1,1,134,143,Disease
+1,1,80,157,Disease
+1,1,168,154,Disease
+0,1,145,80,No Disease
+0,1,109,160,No Disease
+1,1,82,196,Disease
+0,1,100,182,No Disease
+0,0,168,149,No Disease
+0,1,163,76,No Disease
+1,0,128,85,No Disease
+1,0,165,85,No Disease
+0,1,164,81,No Disease
+1,0,141,104,No Disease
+0,0,176,90,No Disease
+0,0,117,86,No Disease
+0,0,94,101,No Disease
+0,1,131,110,No Disease
+1,1,158,96,Disease
+1,1,125,135,No Disease
+1,1,104,161,Disease
+0,1,100,130,No Disease
+1,1,167,72,Disease
+0,1,84,172,No Disease
+1,1,149,124,Disease
+0,1,126,70,No Disease
+0,1,166,170,No Disease
+0,0,147,114,No Disease
+1,1,170,95,Disease
+1,0,97,190,No Disease
+1,0,100,115,No Disease
+1,0,171,191,No Disease
+0,0,178,100,No Disease
+1,1,165,128,Disease
+1,0,102,98,No Disease
+0,1,143,175,No Disease
+0,1,146,86,No Disease
+0,0,119,93,No Disease
+1,1,89,178,Disease
+0,0,168,160,No Disease
+0,0,131,94,No Disease
+0,1,151,101,No Disease
+1,1,154,185,Disease
+0,0,140,151,No Disease
+1,1,143,179,Disease
+1,1,84,106,No Disease
+0,1,132,95,No Disease
+0,0,134,133,No Disease
+1,0,116,141,No Disease
+0,1,135,175,No Disease
+0,1,138,155,No Disease
+1,1,172,122,Disease
+1,1,148,161,Disease
+0,1,152,168,No Disease
+1,0,138,80,No Disease
+0,1,81,100,No Disease
+0,0,144,169,No Disease
+0,1,139,156,No Disease
+1,0,130,84,No Disease
+0,1,109,170,No Disease
+0,0,90,98,No Disease
+0,1,171,183,No Disease
+1,0,155,176,No Disease
+1,0,118,177,No Disease
+1,0,169,199,No Disease
+1,0,156,153,No Disease
+1,0,151,84,No Disease
+0,0,142,119,No Disease
+1,1,143,92,Disease
+1,0,140,128,No Disease
+1,1,133,159,Disease
+0,1,171,184,No Disease
+1,1,173,144,Disease
+1,1,152,192,Disease
+0,1,174,87,No Disease
+1,0,137,119,No Disease
+0,0,164,187,No Disease
+0,0,135,177,No Disease
+0,1,113,136,No Disease
+0,0,110,147,No Disease
+0,0,131,144,No Disease
+1,0,168,108,No Disease
+0,0,155,94,No Disease
+0,0,80,90,No Disease
+1,1,134,84,Disease
+0,0,101,117,No Disease
+1,1,119,155,Disease
+1,1,80,185,Disease
+1,1,144,119,Disease
+0,1,142,138,No Disease
+0,1,133,73,No Disease
+0,0,121,147,No Disease
+1,0,100,78,No Disease
+0,0,158,190,No Disease
+0,1,160,184,No Disease
+0,0,101,170,No Disease
+1,0,117,166,No Disease
+1,1,178,150,Disease
+0,1,159,112,No Disease
+0,1,87,164,No Disease
+0,1,141,75,No Disease
+0,0,126,136,No Disease
+1,1,96,169,Disease
+1,1,96,81,No Disease
+1,0,169,135,No Disease
+1,0,92,71,No Disease
+0,1,96,150,No Disease
+0,0,117,139,No Disease
+0,1,160,184,No Disease
+1,1,157,157,Disease
+0,0,124,75,No Disease
+1,0,85,96,No Disease
+1,1,114,151,Disease
+0,1,93,157,No Disease
+0,1,151,189,No Disease
+0,0,140,93,No Disease
+1,1,94,171,Disease
+0,1,133,103,No Disease
+1,1,106,116,No Disease
+0,1,92,93,No Disease
+1,1,110,134,No Disease
+1,0,114,87,No Disease
+0,1,139,113,No Disease
+1,1,85,145,Disease
+1,1,148,126,Disease
+0,1,165,176,No Disease
+1,0,137,193,No Disease
+0,0,128,185,No Disease
+1,0,102,162,No Disease
+0,1,168,111,No Disease
+0,1,113,97,No Disease
+1,0,105,192,No Disease
+1,0,126,93,No Disease
+1,0,84,175,No Disease
+1,1,169,187,Disease
+1,1,99,122,No Disease
+0,0,85,169,No Disease
+1,0,149,74,No Disease
+0,0,138,118,No Disease
+0,1,143,167,No Disease
+1,1,97,99,No Disease
+0,1,83,141,No Disease
+0,0,96,172,No Disease
+0,0,93,132,No Disease
+0,1,157,95,No Disease
+1,0,92,106,No Disease
+0,1,86,76,No Disease
+1,0,123,196,No Disease
+1,0,94,161,No Disease
+0,0,98,172,No Disease
+1,0,142,122,No Disease
+1,1,114,177,Disease
+1,0,160,181,No Disease
+0,1,114,76,No Disease
+1,1,98,136,No Disease
+1,1,99,177,Disease
+1,0,179,180,No Disease
+0,1,114,152,No Disease
+1,1,111,193,Disease
+0,1,127,173,No Disease
+0,0,123,136,No Disease
+0,0,103,76,No Disease
+0,1,140,179,No Disease
+0,0,96,103,No Disease
+0,1,150,175,No Disease
+1,1,129,127,No Disease
+0,0,144,78,No Disease
+1,1,178,117,Disease
+1,0,111,184,No Disease
+0,0,115,110,No Disease
+1,1,92,117,No Disease
+1,0,149,94,No Disease
+1,0,137,185,No Disease
+1,1,93,147,Disease
+0,1,116,177,No Disease
+1,0,158,94,No Disease
+0,0,147,108,No Disease
+1,1,119,188,Disease
+1,0,138,148,No Disease
+0,0,159,149,No Disease
+1,0,171,96,No Disease
+1,0,95,173,No Disease
+1,0,141,143,No Disease
+0,0,83,137,No Disease
+1,0,124,97,No Disease
+0,1,169,192,No Disease
+1,1,107,152,Disease
+0,1,175,99,No Disease
+0,1,145,91,No Disease
+1,1,110,72,No Disease
+1,0,82,170,No Disease
+0,0,87,174,No Disease
+0,0,103,71,No Disease
+1,0,94,123,No Disease
+0,1,122,75,No Disease
+1,0,110,176,No Disease
+1,0,152,192,No Disease
+1,1,124,71,No Disease
+1,0,145,180,No Disease
+0,0,87,71,No Disease
+1,1,150,162,Disease
+0,0,136,170,No Disease
+1,0,159,166,No Disease
+0,0,178,180,No Disease
+1,0,109,75,No Disease
+0,0,153,196,No Disease
+0,1,97,173,No Disease
+1,1,148,70,Disease
+1,1,172,102,Disease
+1,1,118,109,No Disease
+1,1,139,101,Disease
+0,1,177,86,No Disease
+1,0,122,195,No Disease
+0,1,124,77,No Disease
+0,1,102,126,No Disease
+1,0,148,111,No Disease
+0,0,173,167,No Disease
+0,1,85,189,No Disease
+0,0,135,156,No Disease
+0,1,83,123,No Disease
+1,0,172,153,No Disease
+1,1,102,94,No Disease
+1,0,85,136,No Disease
+1,0,111,115,No Disease
+0,1,97,91,No Disease
+0,1,94,77,No Disease
+1,1,119,108,No Disease
+1,1,175,118,Disease
+1,1,152,115,Disease
+0,0,153,107,No Disease
+1,1,163,123,Disease
+1,1,85,161,Disease
+1,0,142,109,No Disease
+0,0,146,103,No Disease
+0,1,90,165,No Disease
+0,0,122,148,No Disease
+0,0,96,196,No Disease
+0,1,175,86,No Disease
+0,0,83,179,No Disease
+0,0,142,121,No Disease
+0,1,147,187,No Disease
+1,1,160,78,Disease
+1,0,120,102,No Disease
+0,0,162,182,No Disease
+0,1,84,154,No Disease
+1,0,111,79,No Disease
+0,0,165,75,No Disease
+0,0,149,184,No Disease
+0,1,114,190,No Disease
+1,0,101,134,No Disease
+1,0,144,89,No Disease
+1,1,163,126,Disease
+1,0,101,115,No Disease
+1,0,90,79,No Disease
+0,1,156,182,No Disease
+1,1,82,81,No Disease
+0,1,88,80,No Disease
+0,1,139,187,No Disease
+1,0,155,108,No Disease
+1,0,166,122,No Disease
+0,1,93,125,No Disease
+0,1,176,173,No Disease
+0,0,97,198,No Disease
+1,1,152,125,Disease
+1,0,102,187,No Disease
+1,1,153,99,Disease
+1,0,162,81,No Disease
+1,1,126,104,No Disease
+0,1,148,146,No Disease
+1,0,126,171,No Disease
+0,1,166,156,No Disease
+0,0,109,121,No Disease
+0,0,104,149,No Disease
+1,0,107,91,No Disease
+1,0,177,144,No Disease
+1,0,104,127,No Disease
+0,1,153,162,No Disease
+0,1,157,172,No Disease
+0,0,137,76,No Disease
+0,1,173,197,No Disease
+0,0,120,124,No Disease
+0,1,104,175,No Disease
+1,1,157,131,Disease
+1,1,178,159,Disease
+1,1,127,167,Disease
+1,0,177,146,No Disease
+0,0,89,188,No Disease
+0,1,178,105,No Disease
+1,1,154,158,Disease
+0,0,90,199,No Disease
+1,1,164,162,Disease
+1,0,100,183,No Disease
+1,0,165,97,No Disease
+0,0,124,102,No Disease
+1,1,86,89,No Disease
+1,0,160,170,No Disease
+1,1,143,92,Disease
+0,0,143,181,No Disease
+0,1,81,83,No Disease
+1,1,155,160,Disease
+0,1,121,146,No Disease
+0,0,161,154,No Disease
+0,0,133,178,No Disease
+0,1,154,100,No Disease
+0,1,95,191,No Disease
+0,1,97,176,No Disease
+0,0,178,123,No Disease
+0,0,138,112,No Disease
+0,0,169,158,No Disease
+0,0,95,184,No Disease
+1,1,85,168,Disease
+1,1,136,116,Disease
+0,0,126,140,No Disease
+1,0,127,136,No Disease
+1,1,121,131,No Disease
+0,0,155,178,No Disease
+0,0,139,106,No Disease
+0,0,156,188,No Disease
+1,0,83,155,No Disease
+1,0,81,195,No Disease
+0,0,169,121,No Disease
+0,1,138,160,No Disease
+0,0,106,102,No Disease
+1,0,106,150,No Disease
+1,1,158,111,Disease
+1,1,151,181,Disease
+1,1,86,195,Disease
+0,0,142,175,No Disease
+0,1,125,194,No Disease
+0,0,142,182,No Disease
+0,0,91,133,No Disease
+1,0,92,192,No Disease
+1,1,122,183,Disease
+0,1,96,89,No Disease
+0,1,142,85,No Disease
+1,1,160,88,Disease
+0,1,115,189,No Disease
+1,0,164,107,No Disease
+0,0,87,162,No Disease
+0,0,148,174,No Disease
+0,0,169,169,No Disease
+0,1,159,159,No Disease
+0,1,115,113,No Disease
+0,0,107,145,No Disease
+0,1,172,148,No Disease
+1,1,126,142,Disease
+1,0,155,165,No Disease
+1,0,109,158,No Disease
+1,1,102,172,Disease
+1,1,95,75,No Disease
+0,0,93,191,No Disease
+0,0,153,185,No Disease
+1,0,150,131,No Disease
+0,1,131,158,No Disease
+1,0,116,165,No Disease
+1,0,108,195,No Disease
+0,1,146,159,No Disease
+0,1,94,155,No Disease
+0,1,179,190,No Disease
+1,1,126,145,Disease
+0,1,125,161,No Disease
+1,0,131,139,No Disease
+1,0,98,92,No Disease
+1,1,156,127,Disease
+0,1,100,115,No Disease
+0,1,143,91,No Disease
+1,1,116,77,No Disease
+0,1,106,192,No Disease
+0,0,134,89,No Disease
+0,0,108,147,No Disease
+1,0,99,108,No Disease
+1,0,104,106,No Disease
+0,1,149,144,No Disease
+1,0,142,187,No Disease
+0,1,115,173,No Disease
+0,1,81,100,No Disease
+0,1,101,192,No Disease
+0,0,175,123,No Disease
+1,1,95,103,No Disease
+1,0,97,191,No Disease
+1,0,148,182,No Disease
+0,1,133,131,No Disease
+0,1,179,92,No Disease
+0,1,109,115,No Disease
+1,0,124,125,No Disease
+0,1,98,187,No Disease
+1,0,166,182,No Disease
+1,1,113,113,No Disease
+1,1,92,197,Disease
+1,0,122,177,No Disease
+1,0,141,86,No Disease
+1,0,172,128,No Disease
+0,0,179,168,No Disease
+0,0,101,153,No Disease
+1,0,131,114,No Disease
+1,1,131,177,Disease
+0,1,115,131,No Disease
+1,0,152,128,No Disease
+1,1,98,80,No Disease
+0,0,117,171,No Disease
+1,1,149,139,Disease
+1,1,158,192,Disease
+1,0,136,103,No Disease
+0,0,99,170,No Disease
+0,0,88,173,No Disease
+0,1,111,109,No Disease
+1,0,83,88,No Disease
+1,1,129,136,No Disease
+0,0,161,151,No Disease
+1,1,84,133,No Disease
+1,1,99,152,Disease
+1,0,166,116,No Disease
+1,1,154,75,Disease
+1,1,116,85,No Disease
+0,0,101,108,No Disease
+1,1,137,182,Disease
+0,0,147,140,No Disease
+1,0,172,179,No Disease
+0,0,123,124,No Disease
+1,0,113,198,No Disease
+0,1,156,118,No Disease
+1,1,121,90,No Disease
+0,1,88,106,No Disease
+1,0,174,185,No Disease
+0,1,86,93,No Disease
+1,1,147,124,Disease
+0,0,98,94,No Disease
+0,0,173,196,No Disease
+1,1,110,162,Disease
+1,0,114,163,No Disease
+0,0,136,140,No Disease
+1,0,164,191,No Disease
+0,0,140,93,No Disease
+0,1,110,80,No Disease
+0,0,162,142,No Disease
+1,0,174,81,No Disease
+0,0,132,104,No Disease
+0,0,111,92,No Disease
+1,0,145,152,No Disease
+1,0,138,157,No Disease
+1,0,89,149,No Disease
+1,0,81,166,No Disease
+0,1,145,103,No Disease
+0,0,139,144,No Disease
+0,1,167,197,No Disease
+0,0,96,100,No Disease
+1,0,175,199,No Disease
+0,0,95,172,No Disease
+0,0,95,84,No Disease
+1,1,125,126,No Disease
+0,0,118,144,No Disease
+0,0,110,103,No Disease
+0,1,167,172,No Disease
+0,1,80,144,No Disease
+0,0,90,98,No Disease
+0,1,164,85,No Disease
+1,1,83,146,Disease
+1,1,150,106,Disease
+0,0,105,150,No Disease
+0,0,129,193,No Disease
+1,0,91,88,No Disease
+0,1,174,171,No Disease
+0,0,160,146,No Disease
+0,1,176,110,No Disease
+1,0,154,130,No Disease
+0,0,171,95,No Disease
+1,1,175,140,Disease
+0,0,144,172,No Disease
+1,1,126,139,No Disease
+1,1,171,176,Disease
+0,0,132,176,No Disease
+1,1,150,172,Disease
+0,0,81,88,No Disease
+1,0,103,137,No Disease
+0,1,83,139,No Disease
+0,0,98,182,No Disease
+1,1,105,126,No Disease
+0,0,154,130,No Disease
+0,0,119,161,No Disease
+1,0,129,99,No Disease
+0,0,122,196,No Disease
+0,0,154,184,No Disease
+1,1,146,75,Disease
+1,1,91,87,No Disease
+0,1,146,79,No Disease
+0,1,106,161,No Disease
+1,1,133,146,Disease
+1,1,145,170,Disease
+0,0,128,153,No Disease
+1,0,95,121,No Disease
+0,1,81,100,No Disease
+0,1,139,179,No Disease
+0,0,133,162,No Disease
+0,0,109,122,No Disease
+0,0,163,155,No Disease
+1,1,117,71,No Disease
+1,1,107,155,Disease
+1,1,104,73,No Disease
+1,0,175,75,No Disease
+0,0,89,187,No Disease
+0,1,139,158,No Disease
+0,1,121,83,No Disease
+0,0,119,125,No Disease
+1,0,176,150,No Disease
+0,0,156,115,No Disease
+0,0,121,85,No Disease
+1,1,126,189,Disease
+1,0,116,153,No Disease
+1,0,159,77,No Disease
+1,0,101,157,No Disease
+0,1,136,88,No Disease
+0,1,163,166,No Disease
+1,0,106,135,No Disease
+0,0,120,148,No Disease
+0,0,159,155,No Disease
+0,1,113,193,No Disease
+1,1,111,115,No Disease
+0,1,169,182,No Disease
+1,0,168,160,No Disease
+0,1,145,102,No Disease
+0,0,91,146,No Disease
+0,0,119,190,No Disease
+1,0,152,197,No Disease
+0,1,155,147,No Disease
+1,0,169,136,No Disease
+1,1,152,184,Disease
+1,1,89,132,No Disease
+0,0,175,182,No Disease
+0,0,177,163,No Disease
+0,1,127,117,No Disease
+0,0,99,81,No Disease
+1,1,118,109,No Disease
+1,0,139,154,No Disease
+1,1,145,126,Disease
+0,1,144,156,No Disease
+1,1,130,153,Disease
+0,1,115,190,No Disease
+1,0,103,143,No Disease
+0,0,106,176,No Disease
+0,1,81,193,No Disease
+1,1,110,169,Disease
+1,0,136,112,No Disease
+1,0,157,188,No Disease
+1,0,145,92,No Disease
+0,0,108,106,No Disease
+1,0,94,134,No Disease
+1,0,91,91,No Disease
+1,1,107,174,Disease
+0,0,163,157,No Disease
+0,0,103,194,No Disease
+1,1,100,148,Disease
+0,0,89,159,No Disease
+1,0,157,120,No Disease
+0,0,97,171,No Disease
+0,0,167,175,No Disease
+0,0,93,129,No Disease
+0,1,113,115,No Disease
+1,0,137,105,No Disease
+1,1,155,80,Disease
+1,1,101,81,No Disease
+0,0,149,108,No Disease
+1,1,115,105,No Disease
+1,0,124,121,No Disease
+1,1,115,100,No Disease
+0,1,101,102,No Disease
+0,0,157,127,No Disease
+0,0,159,197,No Disease
+1,0,140,100,No Disease
+1,0,179,124,No Disease
+1,0,135,79,No Disease
+0,1,168,199,No Disease
+0,1,175,84,No Disease
+1,1,112,72,No Disease
+0,1,124,112,No Disease
+0,1,115,136,No Disease
+0,1,99,125,No Disease
+0,1,97,132,No Disease
+1,0,117,84,No Disease
+0,0,146,178,No Disease
+0,1,102,185,No Disease
+0,1,175,161,No Disease
+0,0,95,116,No Disease
+1,0,138,126,No Disease
+1,0,148,119,No Disease
+0,0,147,140,No Disease
+0,1,100,151,No Disease
+0,0,157,185,No Disease
+0,1,174,174,No Disease
+0,1,157,157,No Disease
+0,1,149,71,No Disease
+1,0,91,173,No Disease
+0,0,95,153,No Disease
+1,1,160,112,Disease
+1,1,166,140,Disease
+0,1,93,163,No Disease
+1,0,140,111,No Disease
+1,1,150,134,Disease
+1,0,125,103,No Disease
+1,1,111,189,Disease
+1,1,94,70,No Disease
+1,1,123,199,Disease
+0,0,96,130,No Disease
+1,0,120,157,No Disease
+1,1,133,137,Disease
+1,0,123,196,No Disease
+0,1,177,91,No Disease
+1,0,84,151,No Disease
+0,0,106,198,No Disease
+1,0,166,99,No Disease
+0,1,157,195,No Disease
+0,0,158,166,No Disease
+1,0,122,93,No Disease
+1,1,176,83,Disease
+0,1,110,105,No Disease
+1,1,178,93,Disease
+0,1,96,164,No Disease
+0,0,171,124,No Disease
+0,0,162,93,No Disease
+0,0,133,95,No Disease
+0,0,141,149,No Disease
+1,0,166,134,No Disease
+0,1,111,144,No Disease
+0,0,119,112,No Disease
+1,0,92,98,No Disease
+0,0,163,150,No Disease
+1,1,114,123,No Disease
+1,1,84,108,No Disease
+1,0,152,111,No Disease
+0,1,108,98,No Disease
+0,1,149,111,No Disease
+0,1,104,163,No Disease
+1,1,174,101,Disease
+0,1,101,95,No Disease
+1,1,145,184,Disease
+0,1,124,198,No Disease
+1,0,148,125,No Disease
+0,0,170,191,No Disease
+0,1,168,175,No Disease
+0,0,151,199,No Disease
+1,0,80,150,No Disease
+1,1,163,189,Disease
+0,0,123,121,No Disease
+0,1,166,160,No Disease
+1,1,175,91,Disease
+1,1,154,103,Disease
+1,0,118,179,No Disease
+0,0,133,118,No Disease
+1,0,167,198,No Disease
+0,0,154,142,No Disease
+1,1,108,153,Disease
+0,1,133,122,No Disease
+1,0,169,169,No Disease
+1,1,95,193,Disease
+1,1,178,114,Disease
+1,0,99,174,No Disease
+1,1,125,175,Disease
+0,0,146,112,No Disease
+1,1,144,117,Disease
+1,0,137,195,No Disease
+1,1,132,76,Disease
+0,1,80,85,No Disease
+1,0,160,198,No Disease
+0,0,145,184,No Disease
+1,0,108,106,No Disease
+1,0,163,194,No Disease
+0,1,149,150,No Disease
+1,1,87,131,No Disease
+0,0,108,141,No Disease
+0,1,130,194,No Disease
+1,0,112,135,No Disease
+0,0,82,99,No Disease
+1,1,139,89,Disease
+1,1,114,151,Disease
+0,0,148,176,No Disease
+0,0,170,106,No Disease
+0,0,155,146,No Disease
+0,1,163,158,No Disease
+1,1,99,157,Disease
+1,1,152,102,Disease
+0,1,118,127,No Disease
+1,0,83,97,No Disease
+1,0,98,104,No Disease
+1,0,170,194,No Disease
+1,0,124,134,No Disease
+0,0,122,111,No Disease
+0,0,92,154,No Disease
+1,1,92,180,Disease
+0,1,139,84,No Disease
+0,0,136,138,No Disease
+0,0,165,174,No Disease
+1,1,171,133,Disease
+1,1,131,110,Disease
+1,1,132,140,Disease
+0,1,165,125,No Disease
+1,0,122,94,No Disease
+1,0,162,174,No Disease
+0,0,151,188,No Disease
+1,0,151,78,No Disease
+1,0,121,129,No Disease
+0,1,169,194,No Disease
+0,0,105,118,No Disease
+0,1,102,120,No Disease
+1,0,122,139,No Disease
+1,0,156,106,No Disease
+1,0,107,100,No Disease
+0,0,88,131,No Disease
+0,0,99,162,No Disease
+1,1,135,83,Disease
+1,1,162,148,Disease
+0,1,118,77,No Disease
+0,0,130,105,No Disease
+0,0,91,117,No Disease
+0,1,158,154,No Disease
+1,0,174,97,No Disease
+0,0,134,120,No Disease
+1,1,157,173,Disease
+1,0,90,170,No Disease
+1,1,105,98,No Disease
+0,0,121,196,No Disease
+0,1,106,151,No Disease
+0,0,90,79,No Disease
+0,0,117,175,No Disease
+1,1,177,70,Disease
+0,0,122,108,No Disease
+0,0,98,90,No Disease
+1,1,143,134,Disease
+0,0,85,84,No Disease
+1,1,125,130,No Disease
+1,0,121,156,No Disease
+1,0,171,174,No Disease
+1,0,144,103,No Disease
+1,0,178,193,No Disease
+1,1,151,179,Disease
+1,0,138,102,No Disease
+1,1,131,167,Disease
+0,0,126,130,No Disease
+0,0,86,79,No Disease
+0,0,90,153,No Disease
+0,0,140,134,No Disease
+1,1,147,146,Disease
+0,1,104,70,No Disease
+1,1,91,149,Disease
+0,1,105,84,No Disease
+0,0,91,97,No Disease
+0,1,122,92,No Disease
+1,1,130,178,Disease
+0,0,116,176,No Disease
+1,0,125,182,No Disease
+1,0,132,167,No Disease
+0,0,167,97,No Disease
+0,1,159,111,No Disease
+0,1,92,168,No Disease
+1,0,168,130,No Disease
+0,0,133,192,No Disease
+1,0,136,133,No Disease
+1,1,83,100,No Disease
+0,1,154,150,No Disease
+0,0,175,79,No Disease
+1,0,128,77,No Disease
+1,1,86,128,No Disease
+1,0,90,99,No Disease
+0,0,171,89,No Disease
+1,1,133,117,Disease
+0,0,166,199,No Disease
+1,1,124,106,No Disease
+1,0,102,198,No Disease
+0,0,107,169,No Disease
+1,1,136,123,Disease
+0,1,105,191,No Disease
+0,0,104,94,No Disease
+1,1,133,78,Disease
+0,0,108,103,No Disease
+0,0,162,112,No Disease
+1,1,176,143,Disease
+0,0,115,163,No Disease
+0,0,93,91,No Disease
+0,1,157,139,No Disease
+1,1,114,199,Disease
+0,0,109,163,No Disease
+1,1,171,101,Disease
+1,1,96,175,Disease
+0,1,146,70,No Disease
+0,1,159,141,No Disease
+0,0,109,119,No Disease
+1,0,172,84,No Disease
+0,0,124,122,No Disease
+0,1,158,77,No Disease
+0,1,168,143,No Disease
+0,1,130,115,No Disease
+0,1,126,138,No Disease
+1,1,132,183,Disease
+1,1,143,192,Disease
+0,1,117,186,No Disease
+0,0,143,112,No Disease
+0,0,166,89,No Disease
+0,1,168,90,No Disease
+1,1,86,151,Disease
+0,1,101,126,No Disease
+1,0,160,143,No Disease
+1,0,161,167,No Disease
+0,1,120,179,No Disease
+1,1,153,184,Disease
+1,0,89,111,No Disease
+1,0,136,137,No Disease
+1,0,86,139,No Disease
+0,0,129,147,No Disease
+0,1,170,159,No Disease
+1,0,131,180,No Disease
+0,0,112,181,No Disease
+0,1,80,172,No Disease
+0,0,132,88,No Disease
+0,0,139,139,No Disease
+0,0,113,132,No Disease
+1,1,83,144,Disease
+0,0,96,173,No Disease
+0,1,83,144,No Disease
+0,1,122,197,No Disease
+0,0,169,125,No Disease
+1,0,83,91,No Disease
+1,0,80,158,No Disease
+1,0,150,88,No Disease
+1,1,173,95,Disease
+0,0,129,92,No Disease
+1,0,152,116,No Disease
+0,0,140,82,No Disease
+0,1,114,135,No Disease
+0,0,87,142,No Disease
+0,0,103,146,No Disease
+0,1,162,100,No Disease
+1,1,115,154,Disease
+1,0,129,128,No Disease
+1,0,122,110,No Disease
+1,0,106,181,No Disease
+0,0,111,165,No Disease
+1,0,157,191,No Disease
+0,1,97,174,No Disease
+1,1,107,143,Disease
+0,0,108,168,No Disease
+0,0,95,195,No Disease
+1,1,178,144,Disease
+0,0,126,83,No Disease
+0,0,138,107,No Disease
+1,0,110,114,No Disease
+0,0,83,144,No Disease
+1,0,116,98,No Disease
+1,1,96,87,No Disease
+1,0,118,89,No Disease
+0,0,127,83,No Disease
+0,0,125,123,No Disease
+0,1,169,100,No Disease
+1,1,127,127,No Disease
+0,1,118,173,No Disease
+1,1,83,197,Disease
+1,0,109,94,No Disease
+0,1,109,88,No Disease
+1,0,101,72,No Disease
+0,0,154,155,No Disease
+0,1,145,78,No Disease
+0,1,91,163,No Disease
+0,1,173,89,No Disease
+0,1,115,104,No Disease
+1,1,97,122,No Disease
+1,0,169,179,No Disease
+1,1,132,73,Disease
+0,1,150,171,No Disease
+0,1,80,116,No Disease
+0,0,137,163,No Disease
+1,1,169,117,Disease
+0,0,166,160,No Disease
+1,1,169,153,Disease
+1,1,85,137,No Disease
+0,0,149,194,No Disease
+0,1,123,142,No Disease
+1,0,151,73,No Disease
+0,0,103,145,No Disease
+1,0,165,142,No Disease
+0,1,98,146,No Disease
+0,1,97,117,No Disease
+1,1,174,171,Disease
+0,0,109,175,No Disease
+1,1,121,146,Disease
+0,0,112,108,No Disease
+1,1,153,127,Disease
+1,0,91,88,No Disease
+0,0,173,157,No Disease
+1,0,106,182,No Disease
+0,1,118,146,No Disease
+0,0,88,146,No Disease
+0,0,100,97,No Disease
+1,0,155,135,No Disease
+1,0,108,79,No Disease
+0,0,112,195,No Disease
+0,0,141,127,No Disease
+1,1,94,194,Disease
+0,1,81,181,No Disease
+0,0,131,153,No Disease
+1,1,123,165,Disease
+0,1,133,102,No Disease
+1,0,97,116,No Disease
+0,0,82,181,No Disease
+1,0,86,112,No Disease
+0,1,122,77,No Disease
+0,0,161,72,No Disease
+1,1,117,194,Disease
+0,0,116,81,No Disease
+1,1,137,153,Disease
+0,0,112,85,No Disease
+1,0,138,147,No Disease
+1,1,174,128,Disease
+1,1,90,132,No Disease
+1,1,147,118,Disease
+0,1,161,120,No Disease
+0,1,147,102,No Disease
+1,1,177,99,Disease
+1,0,172,145,No Disease
+1,1,167,84,Disease
+0,0,101,151,No Disease
+0,0,145,161,No Disease
+0,1,123,92,No Disease
+0,0,85,163,No Disease
+1,1,121,114,No Disease
+1,1,104,131,No Disease
+1,0,136,84,No Disease
+0,0,164,115,No Disease
+0,1,134,133,No Disease
+0,1,95,144,No Disease
+1,0,174,121,No Disease
+1,0,93,157,No Disease
+0,0,118,126,No Disease
+1,0,107,152,No Disease
+0,1,175,135,No Disease
+0,1,171,89,No Disease
+1,1,130,102,No Disease
+0,1,128,141,No Disease
+1,0,88,94,No Disease
+0,0,137,115,No Disease
+1,1,124,142,Disease
+1,1,101,167,Disease
+1,1,111,126,No Disease
+0,1,148,156,No Disease
+0,1,166,124,No Disease
+1,1,148,130,Disease
+1,1,121,158,Disease
+0,1,132,77,No Disease
+0,1,175,85,No Disease
+0,0,138,185,No Disease
+1,1,153,130,Disease
+0,0,118,84,No Disease
+0,0,94,171,No Disease
+1,1,150,123,Disease
+0,1,108,83,No Disease
+0,0,82,105,No Disease
+0,0,162,174,No Disease
+1,1,89,151,Disease
+1,0,171,136,No Disease
+1,1,108,79,No Disease
+1,1,158,118,Disease
+1,1,114,180,Disease
+1,0,85,134,No Disease
+1,0,91,126,No Disease
+0,1,117,96,No Disease
+0,0,156,182,No Disease
+1,0,172,140,No Disease
+0,0,98,152,No Disease
+0,0,146,126,No Disease
+1,0,87,189,No Disease
+0,0,87,162,No Disease
+0,0,163,84,No Disease
+0,1,126,180,No Disease
+0,0,83,170,No Disease
+0,0,130,188,No Disease
+1,0,164,145,No Disease
+1,0,146,89,No Disease
+1,0,124,142,No Disease
+0,0,87,191,No Disease
+1,0,166,110,No Disease
+0,0,95,199,No Disease
+0,1,156,92,No Disease
+0,0,146,92,No Disease
+0,0,88,78,No Disease
+1,0,139,82,No Disease
+1,0,157,120,No Disease
+0,1,156,133,No Disease
+1,1,150,121,Disease
+0,1,94,107,No Disease
+1,1,150,169,Disease
+1,1,177,120,Disease
+0,1,120,124,No Disease
+1,1,101,178,Disease
+0,1,103,113,No Disease
+1,1,123,179,Disease
+0,1,80,197,No Disease
+0,1,89,174,No Disease
+1,1,159,79,Disease
+1,1,151,169,Disease
+0,1,135,178,No Disease
+1,1,168,177,Disease
+1,1,129,163,Disease
+0,0,91,132,No Disease
+0,1,168,153,No Disease
+1,0,160,94,No Disease
+0,1,139,81,No Disease
+0,1,105,94,No Disease
+0,0,157,80,No Disease
+1,1,120,133,No Disease
+1,0,115,195,No Disease
+0,0,102,119,No Disease
+1,0,122,158,No Disease
+0,1,85,168,No Disease
+1,1,148,185,Disease
+0,1,122,165,No Disease
+0,0,104,83,No Disease
+1,0,97,70,No Disease
+0,1,141,94,No Disease
+1,1,92,141,Disease
+1,1,122,138,No Disease
+0,1,157,174,No Disease
+0,1,107,92,No Disease
+1,0,97,78,No Disease
+0,0,138,187,No Disease
+0,0,139,163,No Disease
+0,1,142,102,No Disease
+0,0,136,199,No Disease
+0,0,171,83,No Disease
+1,0,130,70,No Disease
+1,0,135,159,No Disease
+0,0,106,158,No Disease
+0,1,111,159,No Disease
+0,0,88,83,No Disease
+1,1,175,180,Disease
+0,1,163,152,No Disease
+1,1,171,141,Disease
+1,1,176,199,Disease
+1,1,147,96,Disease
+0,0,125,143,No Disease
+1,0,177,168,No Disease
+0,1,146,141,No Disease
+1,1,105,92,No Disease
+0,1,87,137,No Disease
+1,0,85,186,No Disease
+0,1,159,175,No Disease
+1,0,103,162,No Disease
+0,1,127,134,No Disease
+0,0,173,137,No Disease
+0,1,124,197,No Disease
+0,0,92,132,No Disease
+1,1,148,182,Disease
+1,0,104,159,No Disease
+0,0,99,150,No Disease
+1,0,161,172,No Disease
+0,0,161,185,No Disease
+0,0,145,82,No Disease
+1,0,153,193,No Disease
+0,0,124,157,No Disease
+0,1,126,80,No Disease
+1,1,142,84,Disease
+0,1,155,79,No Disease
+0,1,156,110,No Disease
+0,1,134,142,No Disease
+0,0,154,121,No Disease
+1,0,98,197,No Disease
+1,0,114,97,No Disease
+1,0,132,134,No Disease
+0,0,105,86,No Disease
+0,1,93,164,No Disease
+1,1,124,132,No Disease
+0,1,123,107,No Disease
+0,1,167,139,No Disease
+0,0,144,173,No Disease
+0,0,130,122,No Disease
+1,0,122,188,No Disease
+1,1,165,143,Disease
+1,0,102,123,No Disease
+0,1,135,89,No Disease
+1,0,98,148,No Disease
+1,0,161,100,No Disease
+0,1,155,127,No Disease
+0,0,134,174,No Disease
+1,0,171,79,No Disease
+1,1,171,79,Disease
+1,0,139,108,No Disease
+1,1,138,106,Disease
+0,0,112,188,No Disease
+1,0,98,136,No Disease
+1,0,107,112,No Disease
+0,0,131,121,No Disease
+1,0,128,170,No Disease
+0,0,116,125,No Disease
+0,0,105,145,No Disease
+0,0,178,137,No Disease
+1,1,177,175,Disease
+1,1,178,194,Disease
+0,0,119,161,No Disease
+1,0,159,92,No Disease
+1,1,117,178,Disease
+0,0,156,130,No Disease
+0,0,166,113,No Disease
+1,1,133,85,Disease
+0,0,101,91,No Disease
+1,0,95,126,No Disease
+1,1,107,131,No Disease
+1,0,114,176,No Disease
+1,0,139,140,No Disease
+0,1,124,159,No Disease
+0,0,125,141,No Disease
+0,1,151,139,No Disease
+0,0,134,99,No Disease
+1,0,165,172,No Disease
+1,1,164,101,Disease
+0,1,105,155,No Disease
+1,0,164,126,No Disease
+1,1,104,178,Disease
+1,1,144,78,Disease
+0,0,85,100,No Disease
+0,0,102,140,No Disease
+0,0,143,82,No Disease
+1,1,166,104,Disease
+0,1,122,90,No Disease
+0,1,102,133,No Disease
+0,1,175,164,No Disease
+0,0,109,103,No Disease
+0,1,156,190,No Disease
+0,0,97,84,No Disease
+1,1,166,189,Disease
+1,0,158,165,No Disease
+0,0,176,75,No Disease
+0,0,100,178,No Disease
+1,1,136,166,Disease
+1,0,102,101,No Disease
+0,0,170,152,No Disease
+0,1,124,187,No Disease
+0,0,123,148,No Disease
+0,1,161,147,No Disease
+1,1,167,176,Disease
+0,0,126,195,No Disease
+0,0,119,84,No Disease
+0,1,130,142,No Disease
+0,0,121,170,No Disease
+1,1,86,167,Disease
+1,1,129,95,No Disease
+1,1,127,161,Disease
+0,0,163,194,No Disease
+0,1,170,142,No Disease
+1,0,85,192,No Disease
+0,0,170,122,No Disease
+0,0,88,147,No Disease
+1,0,136,161,No Disease
+1,1,110,157,Disease
+1,0,100,82,No Disease
+1,1,169,112,Disease
+0,1,119,145,No Disease
+0,0,124,120,No Disease
+1,1,156,88,Disease
+0,1,128,191,No Disease
+1,0,166,93,No Disease
+1,1,99,95,No Disease
+0,1,171,189,No Disease
+1,1,96,151,Disease
+0,1,107,169,No Disease
+0,0,120,86,No Disease
+0,1,145,137,No Disease
+0,1,104,113,No Disease
+1,1,137,130,Disease
+0,1,120,192,No Disease
+1,0,85,162,No Disease
+1,1,154,143,Disease
+1,0,117,136,No Disease
+1,1,85,180,Disease
+0,0,124,71,No Disease
+0,0,154,158,No Disease
+1,0,93,95,No Disease
+1,0,145,168,No Disease
+0,0,119,96,No Disease
+1,1,82,158,Disease
+0,1,178,70,No Disease
+1,1,176,172,Disease
+0,0,103,110,No Disease
+1,1,98,120,No Disease
+1,0,97,84,No Disease
+0,0,143,77,No Disease
+1,1,167,107,Disease
+1,1,114,183,Disease
+0,0,141,152,No Disease
+1,0,80,125,No Disease
+0,1,179,172,No Disease
+0,1,104,171,No Disease
+1,1,124,147,Disease
+1,1,128,152,Disease
+1,0,177,99,No Disease
+1,1,168,74,Disease
+1,1,95,188,Disease
+1,1,177,100,Disease
+1,0,172,92,No Disease
+0,0,98,117,No Disease
+1,0,102,178,No Disease
+0,0,162,109,No Disease
+1,1,104,75,No Disease
+1,0,95,107,No Disease
+0,1,133,169,No Disease
+1,1,152,96,Disease
+1,1,80,138,No Disease
+0,1,121,126,No Disease
+1,0,98,86,No Disease
+1,0,176,140,No Disease
+1,0,113,116,No Disease
+0,1,159,148,No Disease
+1,1,134,179,Disease
+1,1,97,82,No Disease
+1,1,113,193,Disease
+1,1,168,178,Disease
+0,0,124,159,No Disease
+0,1,85,155,No Disease
+1,0,100,161,No Disease
+1,1,149,93,Disease
+0,1,175,142,No Disease
+0,0,127,73,No Disease
+1,0,118,182,No Disease
+0,1,110,115,No Disease
+1,1,89,87,No Disease
+0,1,109,112,No Disease
+0,1,97,162,No Disease
+0,0,139,172,No Disease
+0,1,167,193,No Disease
+1,0,152,79,No Disease
+0,1,174,142,No Disease
+0,0,94,100,No Disease
+1,0,83,129,No Disease
+0,1,142,187,No Disease
+0,0,119,83,No Disease
+1,1,88,71,No Disease
+0,0,88,93,No Disease
+1,1,105,133,No Disease
+1,0,83,169,No Disease
+1,1,160,183,Disease
+1,1,95,93,No Disease
+0,0,94,160,No Disease
+1,0,178,95,No Disease
+0,0,131,134,No Disease
+0,0,148,189,No Disease
+0,1,84,73,No Disease
+0,0,99,70,No Disease
+0,1,158,119,No Disease
+0,0,97,179,No Disease
+0,1,81,143,No Disease
+0,1,172,131,No Disease
+0,1,92,150,No Disease
+0,1,83,125,No Disease
+1,0,121,180,No Disease
+1,0,153,90,No Disease
+1,1,140,78,Disease
+0,0,174,139,No Disease
+1,0,87,198,No Disease
+1,1,146,187,Disease
+1,0,142,125,No Disease
+0,0,88,100,No Disease
+0,0,173,106,No Disease
+0,1,90,160,No Disease
+0,0,178,183,No Disease
+1,1,121,197,Disease
+1,0,92,191,No Disease
+1,0,115,138,No Disease
+1,0,92,105,No Disease
+0,1,91,101,No Disease
+0,1,116,133,No Disease
+0,0,153,117,No Disease
+1,1,152,150,Disease
+0,0,131,129,No Disease
+0,1,150,70,No Disease
+1,1,81,134,No Disease
+1,0,135,102,No Disease
+0,0,139,107,No Disease
+0,0,102,94,No Disease
+0,0,119,128,No Disease
+0,1,143,170,No Disease
+0,1,164,196,No Disease
+0,1,102,110,No Disease
+1,0,108,126,No Disease
+1,0,157,117,No Disease
+1,1,169,141,Disease
+0,0,130,125,No Disease
+1,1,148,134,Disease
+0,1,174,81,No Disease
+0,1,168,138,No Disease
+1,1,110,158,Disease
+0,1,129,94,No Disease
+0,0,99,70,No Disease
+1,0,134,118,No Disease
+1,0,160,129,No Disease
+1,1,81,71,No Disease
+0,1,104,142,No Disease
+1,1,92,179,Disease
+1,1,171,130,Disease
+0,0,149,86,No Disease
+1,0,146,118,No Disease
+1,1,137,145,Disease
+1,1,178,112,Disease
+0,1,161,126,No Disease
+0,0,154,119,No Disease
+0,0,163,106,No Disease
+0,0,143,115,No Disease
+1,1,148,84,Disease
+0,1,162,149,No Disease
+0,0,165,93,No Disease
+1,1,138,194,Disease
+1,0,139,187,No Disease
+1,1,162,149,Disease
+0,0,141,163,No Disease
+0,1,95,134,No Disease
+0,0,167,157,No Disease
+1,0,147,157,No Disease
+1,0,94,195,No Disease
+0,0,168,158,No Disease
+1,0,134,130,No Disease
+1,0,114,84,No Disease
+1,1,134,163,Disease
+0,1,93,120,No Disease
+1,1,128,96,No Disease
+1,0,162,143,No Disease
+0,0,179,130,No Disease
+0,1,86,100,No Disease
+1,0,109,81,No Disease
+1,0,162,115,No Disease
+0,0,128,101,No Disease
+0,0,168,130,No Disease
+1,0,95,115,No Disease
+1,1,130,154,Disease
+1,1,151,149,Disease
+1,1,161,73,Disease
+0,1,171,121,No Disease
+1,1,159,181,Disease
+1,0,162,105,No Disease
+0,0,121,123,No Disease
+1,0,96,188,No Disease
+0,0,142,196,No Disease
+1,1,124,86,No Disease
+1,1,156,144,Disease
+0,1,86,174,No Disease
+0,0,106,186,No Disease
+1,1,89,112,No Disease
+1,0,113,181,No Disease
+1,1,115,184,Disease
+0,1,104,96,No Disease
+1,0,85,106,No Disease
+0,0,103,115,No Disease
+0,1,97,182,No Disease
+1,1,166,104,Disease
+0,0,85,149,No Disease
+1,1,108,149,Disease
+1,1,104,190,Disease
+1,0,134,191,No Disease
+1,1,160,150,Disease
+1,0,125,188,No Disease
+0,1,103,127,No Disease
+0,0,154,132,No Disease
+1,1,105,169,Disease
+1,0,177,135,No Disease
+0,1,107,154,No Disease
+0,0,82,192,No Disease
+0,1,154,71,No Disease
+0,1,117,175,No Disease
+1,1,140,177,Disease
+1,1,157,141,Disease
+0,1,130,195,No Disease
+1,1,169,126,Disease
+0,1,127,150,No Disease
+1,1,100,88,No Disease
+0,1,133,76,No Disease
+1,0,135,123,No Disease
+0,0,173,173,No Disease
+0,1,138,155,No Disease
+1,0,151,151,No Disease
+0,1,130,130,No Disease
+1,1,99,156,Disease
+1,0,175,71,No Disease
+0,1,165,100,No Disease
+1,1,138,102,Disease
+1,0,150,149,No Disease
+1,0,88,80,No Disease
+1,1,80,197,Disease
+1,0,108,197,No Disease
+0,0,142,100,No Disease
+1,1,151,195,Disease
+1,0,135,116,No Disease
+1,0,147,176,No Disease
+1,1,114,88,No Disease
+1,0,82,150,No Disease
+0,0,86,192,No Disease
+1,1,106,176,Disease
+0,1,80,118,No Disease
+0,1,170,142,No Disease
+0,0,159,119,No Disease
+0,1,150,150,No Disease
+1,1,123,164,Disease
+0,0,166,81,No Disease
+0,1,120,92,No Disease
+1,1,154,123,Disease
+1,1,121,187,Disease
+1,1,112,128,No Disease
+0,0,129,72,No Disease
+1,1,142,127,Disease
+1,1,179,126,Disease
+0,0,116,159,No Disease
+1,1,138,124,Disease
+1,0,160,114,No Disease
+1,0,178,70,No Disease
+1,0,127,90,No Disease
+0,1,84,90,No Disease
+1,0,127,121,No Disease
+1,0,175,151,No Disease
+0,0,82,136,No Disease
+1,1,126,182,Disease
+0,1,141,113,No Disease
+1,1,178,79,Disease
+0,1,93,133,No Disease
+0,1,142,138,No Disease
+0,1,140,137,No Disease
+0,1,110,97,No Disease
+1,0,174,185,No Disease
+0,0,96,120,No Disease
+1,0,103,73,No Disease
+0,0,102,148,No Disease
+0,1,161,86,No Disease
+0,0,129,177,No Disease
+1,0,157,143,No Disease
+0,0,158,92,No Disease
+1,0,158,87,No Disease
+1,1,149,198,Disease
+1,1,106,104,No Disease
+1,1,94,133,No Disease
+1,0,129,128,No Disease
+1,1,115,70,No Disease
+1,0,87,136,No Disease
+1,1,158,106,Disease
+1,1,82,98,No Disease
+0,1,141,158,No Disease
+0,1,126,169,No Disease
+0,1,156,191,No Disease
+0,0,177,159,No Disease
+0,1,167,83,No Disease
+1,0,175,154,No Disease
+1,0,140,90,No Disease
+1,0,111,95,No Disease
+1,0,173,110,No Disease
+1,0,92,191,No Disease
+1,1,80,107,No Disease
+1,1,113,157,Disease
+0,1,141,80,No Disease
+0,1,158,98,No Disease
+0,0,157,129,No Disease
+0,1,172,130,No Disease
+1,1,177,91,Disease
+1,0,161,147,No Disease
+1,0,150,182,No Disease
+0,1,172,192,No Disease
+1,1,110,113,No Disease
+1,0,143,166,No Disease
+1,1,104,146,Disease
+0,1,117,124,No Disease
+1,1,93,120,No Disease
+0,1,87,171,No Disease
+0,0,170,98,No Disease
+0,0,133,138,No Disease
+0,0,81,149,No Disease
+1,1,160,100,Disease
+0,1,157,181,No Disease
+0,1,168,115,No Disease
+1,1,135,166,Disease
+1,1,173,121,Disease
+0,0,172,143,No Disease
+1,1,163,110,Disease
+0,1,164,146,No Disease
+0,0,140,183,No Disease
+0,1,101,121,No Disease
+0,0,114,156,No Disease
+1,0,95,178,No Disease
+0,0,129,138,No Disease
+1,0,122,189,No Disease
+1,0,96,136,No Disease
+1,1,159,130,Disease
+1,0,137,140,No Disease
+0,0,81,99,No Disease
+1,1,83,165,Disease
+0,1,164,125,No Disease
+1,0,118,122,No Disease
+1,1,177,76,Disease
+0,1,173,166,No Disease
+0,0,85,182,No Disease
+0,0,160,194,No Disease
+1,1,168,190,Disease
+1,0,148,107,No Disease
+0,0,148,191,No Disease
+0,1,99,95,No Disease
+0,0,143,198,No Disease
+0,0,95,73,No Disease
+1,0,130,108,No Disease
+0,0,116,123,No Disease
+0,0,152,102,No Disease
+0,1,148,89,No Disease
+0,1,121,85,No Disease
+1,0,136,196,No Disease
+0,1,145,156,No Disease
+1,0,88,151,No Disease
+0,0,179,131,No Disease
+0,0,165,100,No Disease
+1,0,143,111,No Disease
+0,0,165,81,No Disease
+1,1,101,134,No Disease
+1,1,113,142,Disease
+0,0,134,184,No Disease
+1,1,108,175,Disease
+1,0,117,85,No Disease
+1,1,176,147,Disease
+1,0,97,194,No Disease
+1,1,150,199,Disease
+1,0,144,181,No Disease
+1,0,176,196,No Disease
+1,1,80,90,No Disease
+0,1,167,158,No Disease
+0,0,83,116,No Disease
+1,1,83,154,Disease
+0,0,161,197,No Disease
+1,1,106,141,Disease
+1,1,122,111,No Disease
+0,0,138,78,No Disease
+1,1,111,94,No Disease
+1,1,112,71,No Disease
+1,0,107,88,No Disease
+1,1,134,89,Disease
+0,0,179,139,No Disease
+1,0,139,86,No Disease
+1,0,149,193,No Disease
+1,0,141,158,No Disease
+0,0,159,163,No Disease
+1,1,113,153,Disease
+0,0,166,156,No Disease
+0,0,167,120,No Disease
+1,1,135,151,Disease
+1,1,92,77,No Disease
+0,1,135,190,No Disease
+1,0,97,73,No Disease
+0,0,133,155,No Disease
+0,0,156,197,No Disease
+1,1,122,179,Disease
+1,0,118,168,No Disease
+0,1,140,106,No Disease
+0,0,121,140,No Disease
+0,1,160,102,No Disease
+0,0,158,100,No Disease
+1,0,97,194,No Disease
+1,0,102,81,No Disease
+1,1,133,80,Disease
+1,1,109,157,Disease
+1,0,177,141,No Disease
+0,0,137,101,No Disease
+1,0,147,126,No Disease
+1,1,146,155,Disease
+1,0,150,88,No Disease
+1,0,97,185,No Disease
+1,0,86,83,No Disease
+0,0,119,102,No Disease
+0,1,149,79,No Disease
+0,1,165,149,No Disease
+1,0,144,133,No Disease
+0,0,147,137,No Disease
+0,1,128,161,No Disease
+1,1,131,194,Disease
+1,0,108,149,No Disease
+1,1,100,128,No Disease
+0,1,169,166,No Disease
+0,0,157,88,No Disease
+1,1,88,91,No Disease
+1,1,126,78,No Disease
+0,0,155,78,No Disease
+0,0,121,96,No Disease
+1,1,130,86,No Disease
+1,0,135,114,No Disease
+0,1,130,77,No Disease
+1,0,149,194,No Disease
+0,1,99,192,No Disease
+0,0,167,102,No Disease
+0,1,106,70,No Disease
+0,1,117,75,No Disease
+1,1,151,110,Disease
+1,0,144,74,No Disease
+0,0,133,149,No Disease
+0,1,103,87,No Disease
+0,1,126,151,No Disease
+0,0,150,134,No Disease
+0,0,162,152,No Disease
+1,0,165,94,No Disease
+1,0,142,138,No Disease
+1,0,136,151,No Disease
+1,0,134,186,No Disease
+0,1,139,164,No Disease
+0,0,178,102,No Disease
+0,1,141,180,No Disease
+0,0,109,194,No Disease
+0,0,172,85,No Disease
+1,1,101,149,Disease
+0,1,154,107,No Disease
+1,0,163,147,No Disease
+1,1,108,132,No Disease
+1,1,120,181,Disease
+1,1,121,158,Disease
+0,1,177,107,No Disease
+1,0,144,121,No Disease
+1,1,110,98,No Disease
+1,0,109,145,No Disease
+0,0,97,133,No Disease
+0,0,96,160,No Disease
+0,0,117,158,No Disease
+1,1,93,82,No Disease
+1,1,166,141,Disease
+0,0,168,74,No Disease
+1,0,158,81,No Disease
+0,0,135,72,No Disease
+0,0,101,102,No Disease
+1,1,146,190,Disease
+1,0,135,119,No Disease
+1,1,98,98,No Disease
+1,0,136,108,No Disease
+0,0,123,160,No Disease
+0,0,177,169,No Disease
+0,0,114,86,No Disease
+0,1,80,125,No Disease
+0,1,131,115,No Disease
+1,1,164,136,Disease
+0,0,172,136,No Disease
+0,0,149,92,No Disease
+0,1,116,163,No Disease
+1,1,144,123,Disease
+1,0,130,146,No Disease
+1,0,80,85,No Disease
+1,1,170,110,Disease
+0,0,100,167,No Disease
+0,0,132,197,No Disease
+1,1,95,130,No Disease
+1,0,140,155,No Disease
+0,1,133,187,No Disease
+0,0,119,169,No Disease
+1,1,105,118,No Disease
+1,0,159,71,No Disease
+1,1,171,189,Disease
+1,1,144,192,Disease
+0,1,179,155,No Disease
+0,1,153,146,No Disease
+0,0,143,128,No Disease
+1,0,122,81,No Disease
+1,1,96,73,No Disease
+0,0,138,186,No Disease
+0,0,102,164,No Disease
+0,0,86,194,No Disease
+0,0,123,110,No Disease
+1,0,132,192,No Disease
+0,1,150,76,No Disease
+0,1,158,138,No Disease
+0,1,113,138,No Disease
+0,1,125,150,No Disease
+0,0,147,99,No Disease
+0,0,157,142,No Disease
+0,1,157,75,No Disease
+1,0,95,158,No Disease
+1,0,150,135,No Disease
+1,1,175,79,Disease
+1,0,98,106,No Disease
+0,1,81,146,No Disease
+1,1,89,146,Disease
+1,0,129,101,No Disease
+0,0,160,116,No Disease
+0,1,91,179,No Disease
+1,1,149,189,Disease
+1,0,101,79,No Disease
+0,1,111,166,No Disease
+1,1,163,74,Disease
+0,1,80,146,No Disease
+0,0,133,70,No Disease
+0,1,137,136,No Disease
+0,0,149,84,No Disease
+1,1,162,162,Disease
+0,0,97,99,No Disease
+0,1,85,172,No Disease
+1,0,124,151,No Disease
+0,0,176,144,No Disease
+1,0,102,129,No Disease
+1,1,102,109,No Disease
+1,1,105,143,Disease
+0,1,156,190,No Disease
+1,0,86,72,No Disease
+1,1,158,105,Disease
+0,0,123,112,No Disease
+1,1,106,184,Disease
+1,0,105,178,No Disease
+1,0,176,159,No Disease
+1,0,158,153,No Disease
+1,1,115,146,Disease
+0,1,134,74,No Disease
+1,1,143,147,Disease
+1,0,170,160,No Disease
+0,0,136,156,No Disease
+0,1,148,83,No Disease
+0,1,140,173,No Disease
+1,1,81,152,Disease
+0,0,134,123,No Disease
+1,0,176,164,No Disease
+1,0,159,78,No Disease
+0,0,166,122,No Disease
+0,0,117,146,No Disease
+1,1,159,129,Disease
+0,0,157,115,No Disease
+1,0,108,123,No Disease
+0,0,105,143,No Disease
+0,0,114,181,No Disease
+0,0,158,164,No Disease
+1,1,146,92,Disease
+0,0,166,96,No Disease
+1,0,108,139,No Disease
+1,0,113,178,No Disease
+1,1,176,146,Disease
+1,1,120,119,No Disease
+0,1,120,193,No Disease
+1,0,102,88,No Disease
+1,1,150,70,Disease
+0,0,82,109,No Disease
+1,0,137,91,No Disease
+0,1,111,181,No Disease
+1,0,110,109,No Disease
+0,0,161,107,No Disease
+1,0,122,117,No Disease
+0,1,86,144,No Disease
+1,0,80,176,No Disease
+1,0,140,77,No Disease
+0,1,93,155,No Disease
+0,0,131,137,No Disease
+0,0,175,144,No Disease
+0,1,85,159,No Disease
+1,0,89,199,No Disease
+1,0,150,149,No Disease
+0,0,169,164,No Disease
+1,0,177,139,No Disease
+0,0,109,159,No Disease
+0,1,179,128,No Disease
+1,1,100,97,No Disease
+1,1,139,141,Disease
+1,1,160,83,Disease
+1,0,176,93,No Disease
+1,0,153,181,No Disease
+1,0,142,113,No Disease
+1,0,121,125,No Disease
+0,0,130,189,No Disease
+0,1,143,101,No Disease
+0,1,155,94,No Disease
+0,0,135,185,No Disease
+0,0,159,135,No Disease
+1,0,120,111,No Disease
+0,1,111,145,No Disease
+0,0,94,107,No Disease
+0,0,141,130,No Disease
+0,0,106,158,No Disease
+0,1,107,87,No Disease
+0,0,160,139,No Disease
+0,1,143,151,No Disease
+1,1,138,185,Disease
+1,1,137,149,Disease
+0,1,81,84,No Disease
+1,1,115,82,No Disease
+1,1,150,188,Disease
+1,0,92,112,No Disease
+1,0,94,126,No Disease
+0,0,168,86,No Disease
+1,1,166,101,Disease
+1,0,139,124,No Disease
+1,1,101,82,No Disease
+0,1,142,116,No Disease
+0,1,169,156,No Disease
+0,0,176,131,No Disease
+0,1,154,98,No Disease
+0,1,153,91,No Disease
+0,0,104,134,No Disease
+0,0,127,98,No Disease
+1,1,122,117,No Disease
+1,1,117,74,No Disease
+1,0,120,170,No Disease
+0,0,124,140,No Disease
+0,0,167,135,No Disease
+0,1,119,141,No Disease
+0,0,176,94,No Disease
+0,0,96,129,No Disease
+1,0,167,109,No Disease
+1,1,136,76,Disease
+0,0,81,115,No Disease
+0,0,175,155,No Disease
+0,0,141,90,No Disease
+0,0,167,70,No Disease
+1,0,88,192,No Disease
+0,1,147,194,No Disease
+0,1,160,102,No Disease
+0,1,96,73,No Disease
+0,0,129,72,No Disease
+1,1,173,160,Disease
+0,1,119,121,No Disease
+0,1,137,97,No Disease
+1,0,154,139,No Disease
+1,0,164,126,No Disease
+1,1,100,177,Disease
+0,1,97,93,No Disease
+0,0,134,146,No Disease
+1,0,108,145,No Disease
+1,1,103,138,No Disease
+1,0,153,170,No Disease
+1,1,96,161,Disease
+1,0,97,161,No Disease
+1,1,121,99,No Disease
+0,1,163,87,No Disease
+0,0,124,113,No Disease
+0,1,161,168,No Disease
+1,1,96,190,Disease
+1,1,152,184,Disease
